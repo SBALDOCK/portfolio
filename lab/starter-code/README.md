@@ -1,5 +1,31 @@
 # Lab 04b: RWD Portfolio
 
+### Feature 1 - Refactor the CSS
+
+Number and name of feature: Feature #1 - Refactor CSS
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 3:35PM
+
+Finish time: 4:35PM
+
+Actual time needed to complete: 50 Minutes
+
+
+
+### Feature 2 - Modify The Contents
+
+Number and name of feature: Feature #2 - Modify The Contents
+
+Estimate of time needed to complete: 2 Hours
+
+Start time: 4:30PM
+
+Finish time: 6:30PM
+
+Actual time needed to complete: 2 Hours 30 Minutes
+
 ## Overview
 
 For today's lab assignment, you will work independently to create a personal portfolio. You will begin with the provided starter code and modify the contents to complete your feature tasks. Take time to review the provided code base and understand its structure before adding features.
